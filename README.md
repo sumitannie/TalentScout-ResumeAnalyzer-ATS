@@ -96,13 +96,12 @@ View Results:
 - Export: Click "Download Report (CSV)" to save the screening data.
 
 Screenshots:
-```bash
 ![alt text](<Screenshot (1001).png>)
 ![alt text](<Screenshot (1005).png>)
 ![alt text](<Screenshot (1002).png>)
 ![alt text](<Screenshot (1004).png>)
 ![alt text](<Screenshot (1003).png>)
-```
+
 --------------------------------------------------------------------
 🤝 Future Improvements
 - OCR Integration: Integrate pytesseract to handle scanned/image-based PDF resumes.
