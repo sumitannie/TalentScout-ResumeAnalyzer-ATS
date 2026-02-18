@@ -66,9 +66,10 @@ st.markdown("""
     .card {
         background-color: white;
         padding: 20px;
-        border-radius: 12px;
+        border-radius: 10px;
         box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
         margin-bottom: 20px;
+        border: 2px solid #2563eb;
     }
     .stButton>button {
         width: 100%;
