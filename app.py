@@ -81,6 +81,10 @@ st.markdown("""
         border-radius: 8px;
         overflow: hidden;
     }
+    .stTextArea textarea {
+        border: 2px solid #cbd5e1 !important;
+        border-radius: 8px;
+    }
 </style>
 """, unsafe_allow_html=True)
 
