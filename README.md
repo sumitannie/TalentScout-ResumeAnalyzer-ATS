@@ -96,11 +96,10 @@ View Results:
 - Export: Click "Download Report (CSV)" to save the screening data.
 
 Screenshots:
-![alt text](<Screenshot (1001).png>)
-![alt text](<Screenshot (1005).png>)
-![alt text](<Screenshot (1002).png>)
-![alt text](<Screenshot (1004).png>)
-![alt text](<Screenshot (1003).png>)
+![alt text](<Screenshot (1044).png>)
+![alt text](<Screenshot (1041).png>)
+![alt text](<Screenshot (1042).png>)
+![alt text](<Screenshot (1043).png>)
 
 --------------------------------------------------------------------
 🤝 Future Improvements
