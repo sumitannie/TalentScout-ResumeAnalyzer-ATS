@@ -69,7 +69,7 @@ st.markdown("""
         border-radius: 10px;
         box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
         margin-bottom: 20px;
-        border: 2px solid #2563eb;
+        2px solid black
     }
     .stButton>button {
         width: 100%;
